@@ -1,1 +1,2 @@
 # STAR-BUZZ
+Star Buzz is a 3-D badge designed by me during the lockdown days as a precautionary device for the COVID-19 virus. It helps in maintaining the distance with the help of the HC-SR505 mini infrared PIR motion sensor( it can sense the movement of people, animals, or other objects ) and added a buzz system linked to the badge. So, whenever any human comes within the range of the sensor, it beeps and lets the wearer distance himself.
